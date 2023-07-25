@@ -1,0 +1,47 @@
+body{
+    background-color:black;
+    text-align:center;
+    color:white;
+    font-family: 'Handjet', cursive;
+}
+.a{
+    text-align:left
+}
+.b{
+    background:rgb(1, 68, 168);
+    color:yellow
+}
+.c{
+    padding-top: 10px;
+    border-color:yellow;
+    border-radius: 15px;
+    border-width:2px;
+    border-style:solid
+}
+.d{
+    background-color:lightblue
+}
+.e{
+    background-color:lightgreen
+}
+.f{
+    background-color:lightsalmon
+}
+.g{
+    font-size: 20px;
+}
+.h{
+    letter-spacing: 2px;
+}
+.i{
+    margin-bottom: 50px;
+}
+#j{
+    border-color:rgb(0, 33, 139);
+    padding:5px;
+    border-width:5px;
+    border-style:solid
+}
+.k{
+    font-family: 'Roboto Mono', monospace;
+}
